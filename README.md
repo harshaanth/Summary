@@ -1,6 +1,3 @@
-# Summary
-I analyze data to identify patterns and trends, uncover actionable insights, and support data-driven strategic decision-making to drive business growth.
-
 ## Projects Overview
 
 Executed multiple analytics projects leveraging **Advanced Excel**, **Solver**, **SQL**, **Tableau**, and **Python** to perform **OLAP analysis**, **business intelligence**, and both **descriptive and predictive analytics**. Integrated and analyzed data from **ERP**, **CRM**, and **Order Management Systems** to uncover insights from **product**, **customer**, and **order datasets**.
