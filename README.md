@@ -1,6 +1,8 @@
 ## Projects Overview
 
-Executed multiple analytics projects leveraging **Advanced Excel**, **Solver**, **SQL**, **Tableau**, and **Python** to perform **OLAP analysis**, gather **business intelligence**, and perform both **descriptive and predictive analytics**. Integrated and analyzed data from **ERP**, **CRM**, and **Order Management Systems** to uncover insights from **product**, **customer**, and **order datasets**.
+Executed multiple analytics projects leveraging **Advanced Excel**, **Solver**, **SQL**, **Tableau**, and **Python** to perform **OLAP analysis**, gather **business intelligence**, and conduct both **descriptive and predictive analytics**. 
+
+Integrated and analyzed data from **ERP**, **CRM**, and **Order Management Systems** to uncover insights from **product**, **customer**, and **order datasets**.
 
 ### Key Deliverables:
 - Identified **patterns and trends** to enhance customer engagement and optimize operations  
